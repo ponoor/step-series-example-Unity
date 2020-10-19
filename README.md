@@ -1,5 +1,5 @@
 # step-series-example-Unity
-[日本語](https://github.com/ponoor/step-series-example-Unity/wiki/STEP400)
+[日本語](https://github.com/ponoor/step-series-example-Unity/blob/master/README_jp.md)
 ## About 
 This is an Unity example project for Ponoor Experiments [STEP400](http://ponoor.com/products/step400/). Only minimum commands are available.
 
